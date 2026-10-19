@@ -42,6 +42,13 @@ Another AI picking this up should:
 6. Hand the result back to Shafayet's Muse to rebuild and redeploy the
    hosted artifact. Do not publish or share the plan publicly on your own.
 
+## Design notes from Shafayet
+
+- Any spare space on the site would become either a weight room or another
+  use to be decided (recorded Oct 19, 2026). When the real lot dimensions
+  are known, size the weight room after the two courts and parking are
+  placed.
+
 ## Status
 
 - [ ] Confirm lot dimensions and zoning (City of Warren Assessor)
