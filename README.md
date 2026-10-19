@@ -19,7 +19,7 @@ Fundraising target: $300,000.
   could plausibly fund youth recreation and court construction.
 - `README.md`: this file.
 
-Hosted artifact link: TBD (coordinator fills in after build)
+Hosted artifact slug: `masjid-rec-center-concept-plan` (web_static). Open and share it from its artifact card in Muse.
 
 ## How to view the plan locally
 
