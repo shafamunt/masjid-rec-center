@@ -1,0 +1,13 @@
+# Editor and OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Build artifacts (floorplan.html is hand-built and committed directly)
+dist/
+build/
+*.log
+
+# Dependencies (none currently; keep the repo dependency-free)
+node_modules/
